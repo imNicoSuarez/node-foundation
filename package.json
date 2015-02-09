@@ -1,0 +1,13 @@
+{
+  "name": "foundtion-sass",
+  "version": "0.0.1",
+  "description": "Foundation 5",
+  "main": "index.js",
+  "keywords": [
+    "zurb",
+    "foundation",
+    "sass"
+  ],
+  "author": "Nicolas Suarez",
+  "license": "MIT"
+}
