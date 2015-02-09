@@ -1,5 +1,5 @@
 {
-  "name": "foundtion-sass",
+  "name": "node-foundtion-sass",
   "version": "0.0.1",
   "description": "Foundation 5",
   "main": "index.js",
@@ -8,6 +8,10 @@
     "foundation",
     "sass"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imNicoSuarez/node-foundation-sass.git"
+  },
   "author": "Nicolas Suarez",
   "license": "MIT"
 }
