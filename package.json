@@ -1,6 +1,6 @@
 {
-  "name": "node-foundtion-sass",
-  "version": "0.0.1",
+  "name": "node-foundation-sass",
+  "version": "0.0.4",
   "description": "Foundation 5",
   "main": "index.js",
   "keywords": [
